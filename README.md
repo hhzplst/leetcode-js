@@ -1,1 +1,0 @@
-**Stage One - top liked question with answer**
